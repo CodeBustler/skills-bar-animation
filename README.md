@@ -1,3 +1,5 @@
-# skills-bar-animation
+# SkillsBar Animation
+By using HTML & CSS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-swmxxe)
+## Live
+https://skills-bar-animation.netlify.app/
